@@ -18,7 +18,7 @@ Primeiro realizado a partir de um Curso da Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="Preview do site" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,3 +35,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Meu Primeiro Projeto de Programação. Uma página que contém os meus links pessoais (Portfólio e Redes Sociais).
 
 ## 🔖 Layout
+
+Você pode acessar o projeto através do link: (https://www.figma.com/design/JXOu0AWnRaHfq5MY3mZ3nR/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=10-620&p=f&t=F0M0Xza1tLe4cBAD-0). É necessário ter conta no Figma para visualizá-lo.
