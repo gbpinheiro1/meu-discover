@@ -1,7 +1,7 @@
 <h1 align="center"> Meu Discover </h1>
 
 <p align="center">
-Primeiro realizado a partir de um Curso da Rocketseat.
+Projeto realizado a partir de um Curso de HTML e CSS da Rocketseat.
 </p>
 
 <p align="center">
@@ -37,3 +37,7 @@ Meu Primeiro Projeto de Programação. Uma página que contém os meus links pes
 ## 🔖 Layout
 
 Você pode acessar o projeto através do link: (https://www.figma.com/design/JXOu0AWnRaHfq5MY3mZ3nR/DevLinks-%E2%80%A2-Projeto-Discover--Community-?node-id=10-620&p=f&t=F0M0Xza1tLe4cBAD-0). É necessário ter conta no Figma para visualizá-lo.
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
