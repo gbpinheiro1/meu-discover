@@ -76,12 +76,18 @@ body * {
     
 }
 
+#botao button{
+    animation: slide-out 0.4s forwards;
+}
+
 #botao button:hover {
     cursor: pointer;
+    outline: 8px solid var(--logo-highlight-color);
 }
 
 .light #botao button {
-    left: 0;
+    animation: slide-in 0.4s forwards;
+   
 }
 
 #botao{
@@ -163,5 +169,24 @@ ul li a:hover {
     }
     .light{
         --bg-url: url(assets/bg-desktop-light.jpg);
+    }
+}
+
+/* Animation */
+@keyframes slide-in{
+    from{
+        right: 0;
+    }
+    to{
+        right: 50%;
+    }
+}
+
+@keyframes slide-out{
+    from{
+        left: 0;
+    }
+    to{
+        left: 50%;
     }
 }
